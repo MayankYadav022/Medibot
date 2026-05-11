@@ -1,0 +1,70 @@
+Treatment Overview of Treatment Standard Treatments Stem Cell Treatment Antibody Treatments Supportive Treatment Breakthrough Treatments Complementary and Alternative Treatments Treatment Side Effects Comfort Care
+Complementary and Alternative Treatments
+Multiple myeloma , also known as Kahler s disease, is aÂ type of blood cancer. There s no cure, but treatments can slow its spread and sometimes make symptoms go away.
+A type of white blood cell called a plasma cell makes antibodies that fight infections in your body. When you have multiple myeloma, these cells multiply the wrong way. They let too much protein (called immunoglobulin) into your bones and blood. It builds up throughout your body and damages your organs.
+The plasma cells crowd out regular blood cells in your bones. They also send out chemicals that trigger other cells to eat away at your bones. The weak areas that this creates in your bones are calledÂ lytic lesions .
+As multiple myeloma gets worse, the plasma cells spill out of your bone marrow and spread. This causes more organ damage.
+Multiple myeloma is one of many conditions that can cause problems with your plasma cells. Others include:
+Monoclonal gammopathy. This is when your plasma cells make too many copies of one antibody. Multiple myeloma is a form of this disorder. Another form, monoclonal gammopathy of undetermined significance, might make you more likely to get multiple myeloma.
+Solitary plasmacytoma. This is like multiple myeloma, but it causes a single unusual plasma cell growth rather than many of them. It can happen inside or outside a bone. It might also raise your risk of multiple myeloma.
+Light chain amyloidosis. This causes unusual plasma cells in your bone marrow , but there are fewer of them than with multiple myeloma.
+Waldenstrom macroglobulinemia. This is a type of both monoclonal gammopathy and non-Hodgkin s lymphoma, a cancer of the lymph system. The cells of this cancer have features of plasma cells as well as lymphoid tissue.
+Multiple Myeloma Causes and Risk Factors
+Experts aren t sure whatÂ causes multiple myeloma . But you re more likely to get it if:
+You ve had contact with chemicals used in rubber manufacturing, woodworking, or firefighting; or in herbicides
+Early on, you might not notice any symptoms. But over time, you may have:
+Weakness or numbness in your arms and legs
+Your doctor may suspect multiple myeloma if you have a blood test for something else and it shows:
+Too much calcium in your blood ( hypercalcemia )
+High total protein levels in your blood, but low levels of one called albumin (your doctor may say you have a globulin gap )
+To confirm a diagnosis, you might have blood tests including:
+A complete blood count (CBC). It measures the different kinds of cells in your blood.
+Blood urea nitrogen (BUN) and creatinine. These check how well your kidneys are working.
+Other blood and urine tests check whether your body is making unusual proteins and, if so, what kinds and how much.
+After your test results come in, your doctor may want to do a bone marrow biopsy. They ll put a needle into a bone, usually in your hip, and take a sample of marrow to check the number of plasma cells in it.
+You might get imaging tests. X-rays can show spots of bone damaged by multiple myeloma. You may also need a CT scan, MRI, or PET scan.
+Multiple myeloma can cause problems including:
+Bone problems. Your bones can become weaker, leading to fractures.
+Blood problems. You might get anemia , which means your body doesn t have enough red blood cells. This can make you tired and pale and cause heart problems. You might also have too few platelets, which makes it harder for your blood to clot.
+Infections. When you have myeloma, your body produces a lot of weak antibodies that crowd out healthy ones, making it harder for you to fight infection. A lack of white blood cells can also weaken your immune system.
+Kidney damage. Myeloma can clog your kidneys so they don t filter the way they should. This might lead to kidney failure.
+Doctors grade multiple myeloma cases as high, intermediate, or standard risk, based on genes in the tumors.
+If you don t have symptoms, your doctor may choose to watch you closely rather than start treatment right away.
+If you have symptoms, your doctor will work with you to come up with a treatment plan. It will aim to improve your quality of life by making you feel better and helping you get enough nutrition.
+If your case is high-risk, your doctor may recommend you start a drug combination of daratumumab and hyaluronidase-fihj (Darzalex Faspro), which can help prevent high-risk smoldering multiple myeloma from developing into active myeloma. This immunotherapy medicine is injected under the skin of your belly.Â
+Which drugs your doctor chooses depends on your age and how threatening your cancer is.
+Doctors usually give chemo drugs in mixtures. The ones that treat multiple myeloma include:
+These medications target proteins, genes, or tissues and help prevent cancer from growing.Â
+Monoclonal antibodies are targeted therapies that help your immune system find and destroy myeloma cells. Drugs include:
+Daratumumab and hyaluronidase (Darzalex Faspro)
+If you don t have symptoms, your doctor might start you on one of these drugs to keep myeloma from getting worse.
+Proteasome inhibitors Â stop the process that eats up extra proteins in cells. Myeloma cells make lots of proteins. When they build up, the cancer cells die. These drugs include:
+Histone deacetylase (HDAC) inhibitors affect which genes are active in your cells. Your doctor may prescribe one if you ve already tried bortezomib and an immunomodulatory drug.
+A nuclear export inhibitor, selinexor ( Xpovio ), kills tumor cells by holding back a protein called XPO1. The FDA approved it for certain people who have myeloma and who ve tried at least four other kinds of treatment with no success.
+B-cell maturation antigen (BCMA) targeting agent. Belantamab mafodotin-blmf ( Blenrep ) is classified as a BCMA (B-cell maturation antigen) inhibitor. It s a combination of a monoclonal antibody and a toxin. It is prescribed when you ve already been treated with at least four other therapies and attacks the protein protecting the cancer cell so that the toxin can kill it.
+Bispecific T-cell engager (BiTE) . Teclistamab-cqyv (Tecvayli), elrenatamab (Elrexfio), linvoseltamab (Lynozyfic), and talquetamab (Talvey) are bispecific T-cell engagers that are prescribed when you have already been treated with at least four other therapies. These drugs use a monoclonal antibody that targets BCMA. It can attach to both a T-cell and a myeloma cell at the same time, causing an immune attack on the cancer cell.Â
+These drugs make your immune cells stronger so they can attack cancer cells. They also help starve the myeloma cells in your bone marrow by keeping new blood vessels from forming. Medications include:
+This uses yourÂ immune system to fight cancer cells. One type of immunotherapy is called chimeric antigen receptor (CAR) T-cell therapy. This treatment is not approved for multiple myeloma yet, but it is being tested to see how safe it is and how well it works. Doctors take some of your blood and remove the T cells, which are considered the workhorses of your immune system. They use a disarmed virus to program these cells to spot and kill cancer cells. The cells are returned to your body so they can multiply and get to work.
+You might get idecabtagene vicleucel ( Abecma ), also called ide-cel, if you ve tried at least four other types of treatment.
+Interferon is another type of immunotherapy. Bone marrow cells and some white blood cells release this hormone-like substance. When it s used as a drug, it can slow the growth of myeloma cells. You might take interferon if you ve had treatment and are in remission, which means your doctor can t spot any signs of myeloma in your body.
+These drugs can help other treatments work better. When you re getting chemo, your doctor might prescribe dexamethasone or prednisone to help with side effects.
+Your doctor might suggest that you first have a stem cell transplant.
+They ll use a machine to remove some of your stem cells, then freeze and store them. Or they may use stem cells from a donor.
+Next, you get high-dose chemotherapy, sometimes with radiation. This will destroy almost all the cells in your bone marrow, the plasma cells that cause the disease as well as healthy ones.
+Your doctor will put the saved or donated stem cells into your bloodstream through a tube called a catheter. These can replace the destroyed bone marrow and start making healthy blood. It may take several weeks to refresh all of your blood cells.
+Stem cell transplantation often helps you live longer, but it doesn t cure multiple myeloma, and it can cause serious complications. For example, it can make you more likely to get infections.
+Your doctor might suggest other treatments if your multiple myeloma causes painful bone damage.
+Bisphosphonates.Â This type of drug helps slow bone breakdown. You can take these medicines as pills or get them through a needle. They include pamidronate ( Aredia ) and zoledronic acid Â ( Zometa ).
+Make sure to brush and floss your teeth well while you re taking one of these. It s rare, but bisphosphonates can damage your jaw. Dental work makes that more likely.
+Monoclonal antibodies. Â The medication denosumab ( Prolia , Xgeva) can help pause or even stop the cells that are breaking down your bone.
+Radiation therapy . Â The doctor will direct a beam from a machine to a bone or other affected body part. The beam kills cancer cells, which can ease your pain and make weakened bones stronger.
+To help you feel better while you get treatment:
+Eat a healthy diet. A dietitian can help you choose the right foods, especially if you re having trouble eating certain things because of your treatment.
+Exercise if you can. Stay active to feel better, have more energy, and protect your bones.
+Get plenty of rest. Take naps or breaks as needed during the day.
+Take advantage of good days. Use those days to do the things you enjoy.
+Ask for help. Look for support groups to help you and your family manage this disease.
+People s experiences with multiple myeloma will differ. Some will live for years with few symptoms. For others, their condition gets worse quickly.
+Certain tests can predict survival rates. The simplest and most common tests use the levels of two things in your blood: albumin and beta-2-microglobulin. A higher albumin level and a lower beta-2-microglobulin level mean you probably have a better chance of living a long time.
+Other systems use lab or DNA tests in plasma cells .
+When you know more about your multiple myeloma, you and your doctor can find the best plan for you.To learn more and to find support for yourself and your family, visit the Multiple Myeloma Research Foundation s website.

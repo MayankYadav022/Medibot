@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Browser Location</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: sans-serif;
+        background: transparent;
+        color: #94a3b8;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      function postMessageToStreamlit(type, payload) {
+        const message = {
+          isStreamlitMessage: true,
+          type: type,
+        };
+
+        if (payload !== undefined) {
+          message.value = payload;
+        }
+
+        window.parent.postMessage(message, "*");
+      }
+
+      function sendHeight() {
+        postMessageToStreamlit("streamlit:setFrameHeight", 0);
+      }
+
+      function sendReady() {
+        window.parent.postMessage(
+          {
+            isStreamlitMessage: true,
+            type: "streamlit:componentReady",
+            apiVersion: 1,
+          },
+          "*"
+        );
+      }
+
+      function sendLocation(position) {
+        postMessageToStreamlit("streamlit:setComponentValue", {
+          lat: position.coords.latitude,
+          lon: position.coords.longitude,
+          accuracy: position.coords.accuracy,
+          display_name: "Browser location",
+        });
+      }
+
+      function sendFallback() {
+        postMessageToStreamlit("streamlit:setComponentValue", null);
+      }
+
+      function requestLocation() {
+        if (!navigator.geolocation) {
+          sendFallback();
+          return;
+        }
+
+        navigator.geolocation.getCurrentPosition(
+          sendLocation,
+          sendFallback,
+          {
+            enableHighAccuracy: true,
+            timeout: 8000,
+            maximumAge: 300000,
+          }
+        );
+      }
+
+      window.addEventListener("load", () => {
+        sendReady();
+        sendHeight();
+        requestLocation();
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,70 @@
+Overview What Is Coronavirus? Variants Long COVID
+Diagnosis and Treatment Diagnosis Treatment
+An antibody test is a screening for things called antibodies in your blood. Your body makes these when it fights an infection, such as COVID-19. The same thing happens when you get a vaccine, such as a flu shot. Thatâ s how you build immunity to a virus.
+The antibody test, also known as a serology test, isnâ t checking for the virus itself. Instead, it looks to see whether your immune system -- your bodyâ s defense against illness -- has responded to the infection or vaccination.
+Can COVID-19 antibody tests show if you have COVID?
+A COVID-19 antibody test shows whether you had the severe acute respiratory syndrome coronavirus 2 ( SARS -CoV-2) virus, which causes COVID-19, at some point in the past. It could be gone, or you could still be contagious. The test can also indicate whether your body created antibodies in response to the COVID vaccine.
+To diagnose COVID, you should take a coronavirus test , sometimes called a diagnostic test. Itâ s simpler and faster than an antibody test. It tells you if you have the virus active in your body at the moment when youâ re tested.
+Antibodies are proteins that fight different infections in your body, and they re part of your overall immune response when you re infected with a disease. Your immune system can also learn to make antibodies through vaccination.
+If you ve recovered from COVID or were vaccinated against it, COVID-19 antibodies will appear in your blood.
+How long do COVID-19 antibodies stay in your system?
+Antibody tests can detect the antibodies within a few days to weeks after you ve been infected or vaccinated against COVID.
+There are two kinds of antibodies for SARS-CoV-2:
+IgM antibodies, which are produced early in an infection
+IgG antibodies, which are more likely to show up later
+Both types of antibodies may be detected around the same time after infection. For the most accurate test, it s recommended that you wait 2-3 weeks after getting COVID or receiving the vaccine so that your body has time to build antibodies that will appear on test results.
+The protection of these antibodies varies depending on the person, but over time, antibodies decrease. IgM antibodies usually become undetectable weeks to months following infection. IgG antibodies are detectable for longer periods, however.
+Even as COVID-19 antibody protection wanes, your body s cells may remember the COVID virus. Your immune system will react if you re infected again, so that you don t get sick as seriously.
+To perform a COVID-19 antibody test, a technician will take a bit of your blood through a finger prick or by drawing blood from a vein in your arm. The test looks for one or both kinds of antibodies to SARS-CoV-2, the IgM and IgG antibodies.
+What is considered a high level of COVID-19 antibodies?
+It s hard to compare levels of antibodies, as antibody test reports can vary. SARS-CoV-2 antibody test types include:
+Qualitative: This test only tells you if antibodies are present, so your result is either positive or negative, with no number tied to it.
+Semi-quantitative: This test measures the antibody level in your blood sample on a scale that applies only to that specific test, so you can t compare it with another test from a different company.
+Quantitative: These tests offer standardized and numeric results, which can be compared with other quantitative tests that use the same certified reference material. More research is needed to understand what the numbers mean when it comes to your protection from infection.
+When comparing large populations, you can look at antibody levels in various groups of people. For example, data from the United Kingdom s Office for National Statistics used the following ranges, and anything more than 2,000 nanograms per milliliter (ng/ml) was considered a higher level of concentration in the blood:
+Less than 179 ng/ml (including those with low or no antibodies against SARS-CoV-2)
+From 2,000 ng/ml to less than 4,000 ng/ml
+From 4,000 ng/ml to less than 6,000 ng/ml
+Discuss your test results with your doctor to understand your antibody level. Keep in mind that m ore research is needed to determine what antibody tests can tell us about a personâ s immunity to COVID.
+Why Do We Need COVID-19 Antibody Testing?
+You could have SARS-CoV-2 and not know it. Not everyone who gets it has symptoms.
+Once scientists know who has had the virus, they can find out how sick it makes most people. And they can study what happens if people who ve had it come into contact with it again. Along with other scientific information, this can help researchers understand who might be immune to the virus.
+For example, researchers found that people who received a primary COVID-19 vaccine dose or an additional booster dose while pregnant created protective antibodies against SARS-CoV-2 in both their own blood and their umbilical cord blood, suggesting that the protective antibodies reached the fetus. Those with a booster dose of the vaccine also had higher levels of antibodies.
+The hope is that research like this using antibody testing can better inform and protect people at risk for COVID-19 of all ages.
+COVID-19 antibody tests are considered to be accurate for the intended purpose.
+The FDA says it will crack down on any manufacturer that sells a bad test.
+Itâ s important to note that some tests can mistake IgM antibodies from other coronaviruses, such as common cold strains, for SARS-CoV-2 antibodies.
+Who Should Get a COVID-19 Antibody Test?
+As long as you re not currently experiencing symptoms of illness, most people can get a COVID-19 antibody test if they wish.
+How Can You Get a COVID-19 Antibody Test?
+Several COVID-19 antibody tests have received traditional marketing authorization from the FDA. You can schedule a test through your doctor or pharmacy, as well as through medical lab testing companies. You must go in person to have a blood sample taken, and then a lab will process your results.
+The cost for antibody testing varies. Without insurance, a typical lab test for COVID-19 antibodies can range from 70 to 100.
+In the last few years, some at-home COVID-19 antibody tests have become available for purchase. For an at-home test, you take your own blood sample using a finger prick. In most cases, you will be able to read the result yourself without the need to send a sample to a laboratory .Â
+A positive result might mean you have some immunity to the coronavirus. Itâ s too early to know how strong it is or how long it might last.
+If you received a COVID vaccine, you ll likely show antibodies, but it s possible they won t be detected. If you didn t get the vaccine and you test positive for SARS-CoV-2 antibodies, it probably means youâ ve had the virus.
+A negative result means antibodies weren t detected in your blood sample. There are various reasons why :
+You haven t been infected with SARS-CoV-2 previously.
+You had a previous SARS-CoV-2 infection, but your body hasn t made antibodies yet. Or, your body made antibodies, but the level was too low to be seen on the test used.
+You were vaccinated with a COVID-19 vaccine, but the antibody test didn t find the same kind of antibodies your body created in response to your COVID vaccine.
+What if you get two results from two different tests?
+Results from two tests may be different due to:
+Test design: Two antibody tests may find different antibodies and different levels of antibodies.
+Test performance , including the sensitivity and specificity of each test.
+Timing: Your results could vary depending on when you took the tests, how long it took your body to develop antibodies after a possible SARS-CoV-2 infection, and whether antibody levels decreased over time.
+You should always review your test results with your doctor to get the best information.
+What do sensitivity and specificity mean in COVID-19 antibody testing?
+A highly sensitive COVID antibody test will identify most people who truly have antibodies. Only a small number of people with antibodies may be missed by the test (false negatives).
+A highly specific test will identify most people who truly don t have antibodies. It s still possible that a small number of people without antibodies may be identified as having antibodies by the test (false positives).
+Antibody tests aren t always perfect, and new strains of coronavirus may arise in your area. There could be a few reasons that a test doesn t give you accurate results.
+Itâ s possible to get a â false positiveâ if you have antibodies but had a different kind of coronavirus, or the test may simply be inaccurate. The risk here is having a false sense of security that you re protected from COVID. Continue to take precautions against COVID, and be sure to take a diagnostic COVID test if you show symptoms.
+When your test doesn t detect antibodies even though you may have antibodies for SARS-CoV-2, this is called a â false negative.â It s possible that you were tested too soon after infection, and your body hadn t had time to make antibodies.
+If you re unsure about your test results, talk with your doctor to consider whether you should do another round of testing.
+COVID-19 antibody tests offer you a way to know if your immune system has created antibodies to fight the virus that causes COVID. You can t assume you re immune to COVID if you have antibodies present in your body, however. More research must be done to understand how COVID-19 antibodies help prevent reinfection. Talk to your doctor about the best ways to protect yourself from COVID, including vaccines and boosters that can help build up your body s defenses.
+A coronavirus antibody test is a blood test to see if your body has created antibodies to the SARS-CoV-2 virus that causes COVID-19. It can show how your body responded to the virus or a COVID vaccine.
+The test can t tell you if you currently have a COVID infection.
+COVID antibody tests require a blood sample, collected through a finger prick or by drawing blood from a vein. A lab will then test your blood to determine if antibodies are present.
+Test results may be available the same day, or they could take a few days. Some tests provide just a positive or negative result, while others can provide specific levels of antibodies present in your blood.
+Is it good to test positive for COVID antibodies?
+If you test positive for COVID antibodies, it s good because it means your body s immune system has a way to recognize and fight the virus that causes COVID. Antibodies can t guarantee that you won t get sick, so you re not immune to getting COVID. Still, antibodies that stay in your blood after an infection or vaccine do offer some support to your body, and research is focused on learning more.
+How do I know if I have COVID-19 antibodies?
+You may suspect that you have COVID antibodies if you had COVID, were sick and never tested to confirm that you had COVID, or if you have received the vaccine. You can find out for sure by taking a COVID-19 antibody test.

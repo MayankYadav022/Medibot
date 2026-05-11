@@ -1,0 +1,95 @@
+Tests Procedures Diagnostic Tests Imaging Procedures
+Lung Diseases Pneumonia Bronchitis Bronchiolitis Respiratory Syncytial Virus (RSV) Tuberculosis (TB) Nontuberculous Mycobacterial (NTM) Lung Disease Other Respiratory Infections Interstitial Lung Diseases Fibrosis Hypersensitivity Pneumonitis Related Lung Tumors Nodules Pulmonary Hypertension Pleural Conditions Other Lung Conditions
+Nontuberculous Mycobacterial (NTM) Lung Disease
+Therapies Management Therapies Surgeries Rehabilitation Lifestyle
+Interstitial lung disease Â (ILD) is a group of many lung conditions. All interstitialÂ lung diseases Â affect the interstitium, a part of yourÂ lungs . The interstitium is a lace-like network of tissue that goes throughout bothÂ lungs . It supports your lungs tiny air sacs, called alveoli.Â
+Normally, the interstitium is so thin that it doesn t show up on X-rays or CT scans. Interstitial lung infections scar and inflame your lungs, leading to shortness of breath and other serious problems. Learn more about lung problems that impact the interstitium, symptoms to watch for, and treatments for ILD.
+All forms of ILD cause the interstitium to thicken. This can happen fromÂ inflammation , scarring, or a buildup of fluid. Some forms of ILD last a short time (acute), while others are long-term (chronic) and don t go away.
+Some types of interstitial lung disorders include:
+InterstitialÂ pneumonia . Â Bacteria, viruses, or fungi can infect your interstitium. A bacteria calledÂ MycoplasmaÂ pneumoniae Â is the most common cause.
+Idiopathic pulmonary fibrosis . This makes scar tissue grow in your interstitium. The word idiopathic means its cause is unknown.
+Nonspecific interstitial pneumonitis. Â This is an ILD that often affects people with autoimmune conditions such asÂ rheumatoid arthritis Â orÂ scleroderma.
+Hypersensitivity pneumonitis . Â This happens when dust,Â mold , or other things that you breathe irritate your lungs over a long time.
+Cryptogenic organizing pneumonia (COP). Â COP is a pneumonia-like ILD without an infection. You might hear your doctor call this bronchiolitis obliterans with organizing pneumonia (BOOP).
+Acute interstitial pneumonitis. Â This is a sudden, severe form of ILD. People who have it often need to be connected to a machine called a ventilator that breathes for them.
+Desquamative interstitial pneumonitis. Â This is an ILD that partly results from smoking .
+Sarcoidosis . Â This causes ILD along withÂ swollen lymph nodes . It can also affect your heart ,Â skin , nerves, andÂ eyes .
+Asbestosis. Â This is an ILD caused byÂ breathing asbestos, a fiber used in building materials.
+The most common symptom of all forms of ILD is shortness of breath, either generally or after some physical activity. Almost everyone with ILD will have breathlessness, which can worsen over time.
+Cough , which is usually dry and doesn t bring up mucus
+Weight loss , most often in people with COP or BOOP
+With most forms of ILD, shortness of breath develops slowly (over months). But if you have interstitial pneumonia or acute interstitial pneumonitis, your symptoms will come on quickly (in hours or days).
+Interstitial Lung Disease Causes and Risks
+Bacteria, viruses, and fungi can cause interstitial pneumonia. You can also get ILD if you regularly breathe in things that can damage your lungs. These include:
+Bird proteins (from animals such as exotic birds, chickens, or pigeons)
+Coal dust or various other metal dusts from working in mining
+It s rare, but certain drugs can cause ILD. They include:
+Some antibiotics, such as nitrofurantoin (Macrobid, Macrodantin, Nitro Macro)
+Some anti-inflammatory drugs, such as rituximab (Riabni, Rituxan, Ruxience, Truxima)
+Chemotherapy drugs, such as bleomycin (Blenoxane, Bleo 15k)
+Heart medications, such as amiodarone (Cordarone, Pacerone)
+However, the cause of most ILDs is unknown.
+Jeremy Katzen, MD, assistant professor of medicine (pulmonary, allergy, and critical care) at Penn Medicine says that although we know what can trigger ILD, we don t fully understand why some people with conditions like rheumatoid arthritis or those exposed to bird proteins develop ILD, while others don t. Scientists are still trying to figure out the basic causes of the disease at the genetic and cellular levels. This research is important because it ll help us understand why some people are more likely to get ILD than others.
+Anyone can get ILD, but some things can increase your risk:
+Age. Adults, particularly those over 70, are much more likely to get ILD than children. But kids can get it, too.
+Autoimmune disease. Lupus ,Â rheumatoid arthritis, and scleroderma can raise your risk for ILD.
+Gastroesophageal reflux disease (GERD). This condition can also put you at higher risk.
+Genetics. Some conditions are passed down among family members.
+History of certain diseases. This includes things such as hepatitis C, tuberculosis, pneumonia, and chronic obstructive pulmonary disease (COPD).
+Smoking. This habit can increase your risk of developing ILD.
+Sarcoidosis. This is a disease where you grow groups of tiny inflammatory cells ( granulomas) in any part of your body, but most often in your lungs or lymph nodes.
+Radiation treatments. Cancer treatments may raise your risk for ILD.
+Work environment. If you breathe in coal dust or asbestos at work, this can raise your risk.
+People with ILD usually go to the doctor because of shortness of breath orÂ a cough. Your doctor will probably use imaging tests of your lungs to find out the problem.
+Chest X-ray. Â A simple chest X-ray is the first test for most people with a breathing problem. If you have ILD, chest X-rays may show fine lines in your lungs.
+CT scan . Â A CT scan takes multiple X-rays of your chest and uses a computer to create detailed images of your lungs and surrounding structures. These tests can usually find ILD.
+High-resolution CT scan. Â If your doctor thinks you have ILD, certain CT scan settings can get better-quality images of your interstitium. This can help your doctor diagnose you.
+Lung function test. Â For this test, you sit in a sealed plastic booth and breathe through a tube. It measures your total lung capacity and your ability to transfer oxygen from your lungs to blood, both of which might be lowered if you have ILD.
+Lung biopsy . Â Looking at lung tissue under a microscope is often the only way to find out the type of ILD you have. Lung tissue is collected in a procedure called a lung biopsy, which can be done in several ways:
+A bronchoscopy is where the doctor will run a tube called aÂ bronchoscopeÂ through yourÂ mouth Â or nose into your airways. Tiny tools on the bronchoscope can take a sample of lung tissue.
+Video-assisted thoracoscopic surgery (VATS) is a process where your doctor will make small cuts to insert tools that take samples from multiple areas of lung tissue.
+Open lung biopsy ( thoracotomy ) may be needed in some cases. This surgery involves a large incision (cut) in your chest to get a lung biopsy.
+ILD doesn t have stages, but your condition may be classified as mild, moderate, or severe.
+The terms mild, moderate, and severe describe how well your lungs are working based on tests called pulmonary function tests.Â
+These tests measure the size of the lungs (vital capacity) as well as the ability to absorb oxygen from the air (diffusing capacity), says Sonye Danoff, MD, professor of medicine at Johns Hopkins Medicine and director of the Johns Hopkins Interstitial Lung Disease/Pulmonary Fibrosis Program.Â
+People with mild lung damage might not notice shortness of breath unless they re exercising intensely.Â The most common symptoms of ILD are shortness of breath and a cough.Â
+A nagging, dry cough is also common in ILD and can happen at any stage. But it tends to get worse and more bothersome as the condition worsens. As your lung damage becomes severe, you may notice shortness of breath with less activity and even while at rest.Â
+There s no cure for ILD. Treatment depends on the type you have and its cause. Here are some treatment options:
+Inhaled oxygen. Â If you have low oxygen levels because of ILD, inhaled oxygen may help your symptoms. Regular use of oxygen might also protect your heart from damage caused by low oxygen levels.
+Physical therapy. Your therapist can show you exercises and breathing techniques that may improve your lung capacity.
+Lung transplant . In advanced ILD that has severely affected you, you may need a lung transplant. Most people who have a lung transplant for ILD see major improvements in their quality of life and ability to exercise.
+Antibiotics . These treat most cases of interstitial pneumonia.Â Types of pneumonia caused by a virus usually get better on their own. The types caused by fungi are rare and can be treated with antifungal drugs.
+Corticosteroids. Â In some forms of ILD,Â inflammationÂ in your lungs causes damage and scarring. CorticosteroidsÂ can slow down your immune system. This lessens the amount of inflammation in your lungs and the rest of your body.
+N-acetylcysteine Â (Mucomyst). Â This potent antioxidant may slow the decline of lung function in some forms of ILD. You ll take it in combination with other treatments.
+Medicines for lung inflammation . A form of ILD, these medicines treat idiopathic pulmonary fibrosis:
+These medications are considered controversial for ILD treatment:
+These medicines can affect the way your immune system works and may have more serious side effects. If your doctor thinks you need one, they ll keep a close watch on you while you re taking it.
+Since ILD can t be cured, it s important to take care of yourself to minimize the effects.Â
+Treat any diseases (such as GERD) that might be contributing to your ILD.
+If you work in an environment where you can inhale coal dust or asbestos, be sure to wear a respirator (a mask that filters out air particles). Try to find a job where you don t get exposed to these types of dust.
+Wear a respirator around things like hay, bird droppings, or HVAC systems if they cause you to have severe allergic reactions.
+Quit smoking if you re a smoker and avoid secondhand smoke.
+Eat properly. With lung diseases, you may not feel like eating as much as you regularly would. Plus, you might lose weight because of the extra energy involved in breathing.
+Get vaccinated against pneumonia and the flu. Respiratory infections can worsen ILD symptoms.Â
+Stay active. I tell patients that diseases that make people feel short of breath, like ILD, can shrink people s physical worlds. If it s uncomfortable to go for a walk around the block because of dyspnea (shortness of breath), it is easy (and natural) to stop going for those walks to avoid that discomfort, says Katzen. The issue with this is that it can cause deconditioning, which makes the dyspnea with these activities more severe.Â Staying active, discussing with your ILD provider whether pulmonary rehabilitation is an appropriate option, and addressing cardiovascular health, are all ways to avoid a cycle of dyspnea and deconditioning.
+Severe ILD can cause life-threatening complications.
+This is high blood pressure in your lungs. Low levels of oxygen or scar tissue can narrow tiny blood vessels in your lungs and reduce blood flow. This can raise the pressure in your lung s arteries and make it harder for oxygen to get into your blood. Over time, your right ventricle (lower right chamber of your heart)Â may weaken or fail because of this pressure.
+Right-sided heart failure (cor pulmonale)
+This happens when your right ventricle â responsible for pumping blood to your lungs â has to work harder due to blocked arteries. Over time, this extra work can cause the heart to fail. This is often a result of pulmonary hypertension.
+In the late stage of chronic ILD, very low blood oxygen levels and increased pressure in your lung s arteries can cause your heart to fail.
+Air builds up in the space between your chest wall and lung, pressing against the lung. This causes your lung to collapse, either partially or completely.
+This type of cancer is also a complication of severe ILD. If you have severe ILD, your risk of developing lung cancer is higher.
+How to Prevent Interstitial Lung Disease
+Here are some ways to avoid getting ILD:
+Stay away from toxins such as asbestos, coal dust, and silica dust, in your work area. If you must be around them, wear a respirator.
+Stay away from toxins in the environment, such as bird droppings, feathers, mold, and bacteria. Wearing a respirator can help if you can t avoid these.
+If you have a medical condition (hepatitis C, pneumonia, COPD, or sarcoidosis) that puts you at a higher risk for ILD, ask your doctor about what you can do to prevent this from happening.
+Interstitial lung disease (ILD) is a group of medical conditions that scar your lungs and make it harder for you to breathe. These include interstitial pneumonia and idiopathic pulmonary fibrosis. Breathing in toxic fumes from coal dust, asbestos, or mold can cause ILD, and so can having an autoimmune disease. Often, you may have ILD without knowing the reason. There s no known cure, but you can manage your condition with medication and physical therapy.
+What s the life expectancy of someone with interstitial lung disease?
+It depends on the severity of the disease. A mild condition may not shorten your life. In severe cases of ILD, life expectancy may be about three to five years after diagnosis.
+Can you recover from interstitial lung disease?
+Once your lungs are scarred, this can t be reversed. But you can have treatment to help you live with ILD. This would include medication, physical therapy, inhaled oxygen, and in very severe cases, a lung transplant.
+What s the most common cause of death in interstitial lung disease?
+The most common cause of death in ILD is idiopathic pulmonary fibrosis.
+How do I know if I have interstitial lung disease?
+If you have breathing problems (shortness of breath or a dry cough), see your doctor. Breathing problems don t always mean you have ILD, but they re an early sign of it.

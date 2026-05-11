@@ -1,0 +1,70 @@
+Treatment Overview of Treatment Standard Treatments Stem Cell Treatment Antibody Treatments Supportive Treatment Breakthrough Treatments Complementary and Alternative Treatments Treatment Side Effects Comfort Care
+Complementary and Alternative Treatments
+Graft versus host disease, or GVHD, is a complication of a stem cell transplant, a treatment for blood cancers and certain blood or immune system disorders. With GVHD, white blood cells called T cells from the donor -- the graft, or the â Gâ in GVHD -- attack cells within the recipientâ s, or hostâ s, body. Â
+GVHD is possible after an allogeneic transplant -- thatâ s when the donor cells come from anyone other than an identical twin. Up to two-thirds of all people who have an allogenic transplant will at some point have symptoms of GVHD.
+GVHD is a sign that those T cells are fighting any remaining cancer cells in your body (the graft versus tumor effect). In fact, people who get GVHD have a lower rate of cancer relapse. Although it can be mild or moderate, it can also be severe or even life-threatening.
+Acute GVHD Â usually involves the skin, the GI tract, and sometimes the liver. It used to be defined by when it started, which is often between 14 and 100 days after the transplant. But more recently its signs, rather than its timing, are used to make a diagnosis. Also, it can start after the 100-day mark in whatâ s called late-onset acute GVHD.
+Chronic GVHD Â often involves the skin, GI tract, and liver to a higher degree than acute GVHD. It also affects more parts of the body. For about 40% of people with severe GVHD, thatâ s four or more organs. It also has some of the signs of an autoimmune disease, like inflammation.
+Chronic GVHD is slightly more common than the acute form. It tends to start after the 100-day mark but may not come until years later. It can happen on its own or after acute GVHD. Itâ s possible for the two forms to overlap (overlap syndrome).
+There have been many advances in tissue typing to match people to the best donors, but sometimes thereâ s a mismatch between the host and the donor that involves the human leukocyte antigen (HLA). This is a molecule on the surface of nearly every cell in the body. That can lead to GVHD.
+GVHD is also more likely if you or the donor is older or if the donor is a woman whoâ s been pregnant. These are things to consider if your best donor is a sibling, especially a sister.
+On the other hand, umbilical cord blood is less likely to cause GVHD.
+There are many steps your medical team will take to help prevent GVHD. These include medications that temporarily turn off your immune system. This may stop donor cells from attacking your body. New combinations of these drugs are becoming more and more effective. Since pausing your immune system leaves you vulnerable to different types of infections, youâ ll also take medications to prevent them.
+Other triggers can cause GVHD. One is when you start to cut back on drugs that suppress your immune system. Another is sun exposure, so you want to avoid it until your doctor gives you the all-clear.
+Each organ that acute GVHD affects shows its own signs:
+Your skin. The very first symptom is often a sunburn-like rash on the ears, the back of the neck, the shoulders, palms, and soles. It can be itchy or painful and may spread across your entire body. Sometimes, blister-like lesions develop.
+Your GI tract. Your entire digestive system can be affected. You may have intense diarrhea and cramps, feel nauseated, vomit, and have no appetite.
+Your liver. A blood test will show early warning signs like high levels of bilirubin and liver enzymes. A more obvious sign is jaundice, which is when the whites of your eyes turn yellow.
+The symptoms of chronic GVHD are often more intense than those of acute GVHD. Also, because the chronic form attacks other parts of your body, you may have other symptoms:
+Thickened skin (sclerosis), with severe dryness that extends to the skin of your genitals and to your nails
+Swollen belly and weight loss from not being able to eat
+High levels of cholesterol and other blood fats are more signs that your liver isnâ t working as well as it should
+Dry mouth, sensitivity to certain foods, and possibly gum disease
+Very gritty dry eyes or changes to your vision
+Muscle pain or weakness, and a loss of range of motion
+Painful sex due to changes within the genitals, if you have a vagina
+Your doctor may be able to diagnose GVHD from your symptoms alone.
+Itâ s also possible to make a chronic GVHD diagnosis from telltale signs during an exam. Sometimes, skin lesions, mouth sores, dry eyes, or genital changes might look like chronic GVHD, but youâ ll need tests to confirm it. Â
+Chronic GVHD may be mild, moderate, or severe, based on how many organs are involved and how seriously. One national study found that 53% of people get moderate GVHD, 19% mild, and 28% severe.
+GVHD is a complicated condition. Arm yourself with as much information as you can. To start, ask your doctor for answers to these questions:
+Do I need a team of specialists to monitor the different organs involved?
+How long does the type of GVHD I have tend to last?
+Am I a candidate for a clinical trial for cutting-edge medication?
+What new or worsening symptoms should I report to you?
+What can I do on my own to improve my quality of life?
+Treatment is tailored to your symptoms and how severe they are. It may take a team of experts. Â
+If your GVHD is mild, your doctor may just keep an eye on you. If only your skin is involved, they might have you apply a steroid ointment. If you have chronic GVHD of your eyes, you may use special eyedrops . If you have more severe or widespread symptoms, youâ ll likely need medication to calm your immune system and ease inflammation. There are many classes of drugs that your team can prescribe.
+Immunosuppressants are Â medications that neutralize your immune system. Drugs from this group are typically the first-line GVHD treatment:
+Corticosteroids are usually the first of these drugs given. For acute GVHD, your doctor may put you on methylprednisolone through an IV for 2 weeks. For chronic GVHD, you might take prednisone in pill form for weeks or months. The goal is to taper off these drugs as soon as possible.
+You may take other immunosuppressants, often at the same time. Taking one of these along with a corticosteroid may improve results:
+Cyclosporine (Gengraf, Neoral, Sandimmune)
+Tacrolimus ( Astagraf XL , Envarsus XR , Prograf )
+Mycophenolate mofetil ( CellCept , Myfortic )
+When steroids or other immune-suppressing drugs donâ t work well enough, your doctor might prescribe other medications from different drug classes:
+Immunomodulating agents Â suppress an inflammatory protein called tumor necrosis factor-Î , or TNF-a:
+Photoactive agentsÂ are drugs activated by light and may help treat skin lesions:
+Antineoplastic agents Â inhibit dangerous cells from growing and multiplying:
+Ibrutinib ( Imbruvica ). This is a recently approved drug for chronic GVHD in adults, targeting a different enzyme called a tyrosine kinase, which can also play a role in cancer.
+Ruxolitinib ( Jakafi ). This is a recently approved drug for acute GVHDÂ for ages 12 and over. It targetsÂ enzymes called JAKs (Janus-associated kinases) that play a role in developing cancer.
+Monoclonal antibodiesÂ are biologic, or manmade, drugs that target specific cells involved in GVHD, including TNF. But their effects may make your immune system even more vulnerable. More research is needed to find out how effective they are:
+Etanercept ( Enbrel ). This drug helps enhance steroids in some patients.
+Extracorporeal photopheresis (ECP)Â is a complex treatment that involves removing certain white blood cells from your blood. The cells are treated with a special drug and UVA light, and then theyâ re put back into your body to fight off abnormal blood cells. Your doctor may suggest it if other drugs fail to work or stop working.
+When steroids donâ t work well enough, your doctor might prescribe one of the newer drugs approved for GVHD:
+Ibrutinib ( Imbruvica ) for chronic GVHD in adults
+Ruxolitinib ( Jakafi ) for acute GVHDÂ for ages 12 and over
+A possible breakthrough drug that targets the immune system, as well as GVHD symptoms like skin sclerosis and tissue changes in eyes, lungs, and joints, is belumosudil. It stops a process in the body called ROCK2 that enables GVHD. In clinical trials, belumosudil helped a high percentage of people with hard-to-treat GVHD.
+Your treatment plan might include other drugs targeted to specific problems. Â
+Supportive therapies may also be important -- they help you overcome or even prevent other problems. For instance, you may need a feeding tube if GI issues put you at risk for malnutrition or bone-strengthening drugs to guard against the bone loss linked to steroids.
+Thereâ s a lot you can do to boost your physical health:
+Take steps to avoid infections -- wash your hands often, and avoid any visits from loved ones who are sick. Â
+Pamper your skin. Use rich creams -- with your doctorâ s OK -- to ease dryness. Wash with the gentlest cleansers, and avoid hot water. Talk to your doctor if diarrhea has left the skin around your anus irritated.
+Protect your eyes. Wear UV-coated sunglasses when outdoors. Get more frequent care from your eye doctor.
+Remember oral hygiene. Dry mouth makes you more prone to cavities and gum disease. Besides brushing and flossing, you may need to see your dentist every 3 months rather than every 6.
+Upgrade your diet. Work with your medical team or a dietitian to make sure youâ re getting the nutrients and fluids you need, especially if you have nausea or diarrhea.
+Try to exercise. Even gentle movement can help bone health and muscle strength. Work with a physical therapist if youâ re not sure how to restart a fitness plan or if you have trouble getting around. Exercise will improve sleep quality, too.
+Itâ s also important to protect your mental and emotional well-being:
+Try meditation or other relaxation techniques to keep a positive outlook.
+Get back to activities that make you happy. This might be as simple as listening to your favorite music, watching a movie, or revisiting a hobby.
+It can be hard to live with GVHD, especially since treatment can take months or years. Besides any physical symptoms. Depression and anxiety are common. These emotional side effects often go away when GVHD gets better.
+But you donâ t have to let them take over your life even temporarily. Find ways to express your feelings rather than keeping them bottled inside. Get outside help if you need it. Consider therapy from a social worker, psychologist , or psychiatrist. The nonprofit group Be The Match offers free counseling services. Check out its website at bethematch.org for more.
+A strong support system will help you manage your physical and emotional symptoms. Your network starts with close family and friends and extends to your care team. For insights from people who have gone through GVHD, expand that network with a support group. You and the group members can help each other see that youâ re not alone in this journey.

@@ -1,0 +1,60 @@
+Overview What Is Coronavirus? Variants Long COVID
+Diagnosis and Treatment Diagnosis Treatment
+Viruses are always changing, and that can cause a new variant, or strain, of a virus to form. Changing into a variant usually doesn t affect how the virus works. But sometimes they make it act in different ways.
+Scientists around the world are tracking changes in the virus that causes COVID-19. Their research is helping experts understand whether certain COVID-19 variants spread faster than others, how they might affect your health, and how different vaccines might work against them.
+The number changes often. In late 2025, the World Health Organization listed seven variants as circulating at the time. More than 50 variants have been identified; although some are no longer spreading.Â
+Experts use a rating system to determine how carefully a variant needs to be watched. A strain will be labeled a variant of concern, or VOC, if, compared to other strains:Â
+It causes more serious symptoms, sending more people to the hospital or causing more deaths .Â
+Vaccines and previous COVID infections don t protect nearly as well against it.Â
+Treatments and COVID tests don t work as well on it.
+This is a step down from a variant of concern. A strain may be considered a variant of interest, or VOI, if:Â
+Vaccines or previous cases of COVID are somewhat less protective against it.Â
+It s predicted to spread faster and cause worse symptoms.Â
+Treatments and tests work less well on it.
+It has genetic markers that make scientists worry it will spread fast or be hard to treat, or test for.
+It seems to be causing a lot of cases or an outbreak in a certain area.
+As of October 2023, the World Health Organization didn t list any variants of concern spreading.Â
+It did list three variants of interest that were circulating. All are branches of the Omicron strain, which first appeared in Africa in November 2021. It quickly became the dominant strain of the virus in the U.S.
+An Omicron variant named EG.5, also sometimes called Eris, is the main version in the U.S.Â
+The WHO was also watching six variants to see whether they d rise to the level of variants of interest. This group is called variants under monitoring, or VUM. One variant they re monitoring is a strain called BA 2.86, nicknamed Pirola.
+All of the Omicron variants have spread more easily than earlier versions of the virus. Scientists suspect this is linked to the way Omicron has mutated, which has involved lots of changes to the part of the virus that attaches to human cells.Â
+Coronaviruses are aÂ large family of virusesÂ that have been around for a long time. Many of them can causeÂ a variety of illnesses, from a mild cough to severe respiratory illnesses.
+TheÂ coronavirusÂ that causes COVID-19Â is one of several known to infect humans. It s probably been around for some time in animals. Sometimes, a virus in animals crosses over into people. That s what scientists think happened here.Â So this virus isn t new to the world , but it is new to humans. When scientists found out that it was making people sick in 2019, they named it SARS-CoV-2.
+Coronaviruses have all their genetic material in something called RNA (ribonucleic acid). RNA has some similarities toÂ DNA, but they aren t the same.
+When viruses infect you, they attach to your cells, get inside them, and make copies of their RNA, which helps them spread. If there s a copying mistake, the RNA gets changed. Scientists call those changes mutations.
+These changes happen randomly and by accident. It s a normal part of what happens to viruses as they multiply and spread.
+Because the changes are random, they may make little to no difference in a person s health. Other times, they may cause disease. For example, one reason you need aÂ flu shot Â every year is because influenza viruses change from year to year. This year sÂ flu virusÂ probably isn t the exact same one that circulated last year.
+If a virus has a random change that makes it easier to infect people and it spreads, that variant will become more common.
+All viruses, including coronaviruses, can change over time, and there have been several variants already that have contributed to the pandemic.Â
+The Omicron variant (B.1.1.529) was first detected Â on Nov. 11, 2021, in Botswana. Experts in South Africa first reported the Omicron variant to the World Health Organization (WHO) on Nov. 24, 2021. They discovered the variant after COVID-19 infections suddenly began to go up. Omicron has gone through several mutations:Â
+Omicron â stealthâ variant (BA.2) : Scientists call it Omicron BA.2 as opposed to the original Omicron variant, BA.1. At first, scientists thought BA.2 wasnâ t as contagious as BA.1 and would soon fade away. That didnâ t happen, and in January 2022, BA.2 appeared to be at least as easy to transmit as BA.1.
+In early 2022, BA.2 showed signs of spreading more easily than other variants , though it didnâ t seem to cause more serious symptoms.Â
+Omicron subvariant BA.2.12.1 : In the spring of 2022, it made up almost 43% of COVID-19 infections in the U.S.Â
+Omicron variants BA.4 and BA.5. These were first spotted in South Africa. There, they â rapidly replacedâ BA.2, according to early research.Â
+Some COVID variants that developed earlier in the pandemic include:
+Alpha (B.1.1.7). In late 2020, experts noted gene mutations in COVID-19 cases seen in people in southeastern England. This variant has since been reported in other countries, including the U.S. Scientists estimate that these mutations could make the virus more transmissible, meaning it could spread more easily. Some research has linked this variant to a higher risk of death, but the evidence isn t strong.
+Beta (B.1.351). This variant was first found in other countries, including South Africa and Nigeria. The Beta variant appears to spread more easily than the original virus but doesn t seem to cause worse illness.
+Gamma (P.1). In January 2021, experts spotted this COVID-19 variant in people from Brazil who d traveled to Japan. By the end of that month, it was showing up in the U.S.
+The Gamma variant appears to be more contagious than earlier strains of the virus . And it may be able to infect people who ve already had COVID-19. A report from Brazil confirms that a 29-year-old woman came down with this variant after an earlier coronavirus infection a few months before.Â Â Â
+Some early research suggested that the variant s changes might help it evade antibodies (made by your immune system after an infection or a vaccine) that fight the coronavirus. A lab study shows that the Pfizer-BioNTech vaccine can neutralize the fast-spreading Brazil strain. But more research is needed.
+Delta (B.1.617.2). The highly transmissible COVID-19 delta variant, also known as B1617.2, was found in India in October 2020. It was the dominant strain in the U.S. and several other countries during the fall of 2021, but by March of 2022 accounted for 0 cases in the U.S., having been overtaken by the even more contagious Omicron variant.Â Â
+Research suggests that mutations made the Delta variant up to 50% more transmissible than previous COVID-19 variants.Â
+By January 1, 2022, the Delta variant had reached more than 183 countries, overtaking the Alpha variant in the number of cases in many of those countries, including the U.S.Â
+Mu (B.1.621). Experts first spotted this COVID-19 variant (pronounced myoo ) in Colombia in January 2021. Since then, countries in South America and Europe have reported outbreaks of Mu.
+In the U.S., the CDC says Mu reached a peak in June 2021, when it made up less than 5% of variants going around the country.Â
+R.1. Scientists first detected R.1 in a number of countries, including Japan. There was an outbreak at a Kentucky nursing home in March 2021, when an unvaccinated health care worker passed it to about 45 other staff and residents.
+Epsilon ,Â Theta ,Â and Zeta were at one point listed as variants of interest and were downgraded by the WHO. They are still being monitored.
+Even earlier in 2020, when the pandemic was new, you might have heard that there was more than one strain of the new coronavirus. Is it true? The answer appears to be yes.
+The theory about different variants of the new coronavirus came from a study in China. Researchers were studying changes in coronavirus RNA over time to figure out how various coronaviruses are related to each other. They looked at 103 samples of the new coronavirus collected from people, and they looked at coronaviruses from animals. It turned out that the coronaviruses found in humans weren t all the same.
+There were two types, which the researchers called â Lâ and â S.â They re very similar, with slight differences in two places. It looks like the S type came first. But the scientists say the L type was more common early in the outbreak.
+The virus that causes COVID-19 will probably keep changing. Experts may find new variants. It s impossible to predict how those virus changes might affect what happens. But change is just what viruses do.
+The basic symptoms of COVID remain the same:Â
+Trouble breathing or shortness of breath
+But sometimes different variants cause subtly different symptoms. For instance, with the Delta variant, a cough became less common and loss of smell was no longer listed in the top 10 common symptoms. Researchers worried that people would mistake symptoms for a bad cold and avoid quarantine, helping the variant spread.
+Omicron strains, so far, have caused more cold-like symptoms such as runny nose and sore throat
+The virus that causes COVID keeps mutating, producing new variants, or strains. This is a natural process. Most of these changes make no difference to a person s health. But some mutations make a COVID variant spread more easily or cause a more severe form of the disease.Â
+What are the four variants of coronavirus?
+COVID has developed numerous variants since 2019. Scientists divide those variants into four classes or tiers, based on things like how easily a strain spreads, how sick it might make you, and whether current treatments work. The four tiers, from most worrisome to least, used by the CDC are:Â
+How are there different variants of COVID?Â
+When a virus infects your body, it begins to reproduce . Sometimes, the copies are imperfect and some small bit of genetic material is changed. That s how new variants are created.Â
+Among the COVID strains you may have heard of are Delta and Omicron. Delta was the most common in the U.S. in the fall of 2021. In 2023, Omicron was the dominant strain.Â

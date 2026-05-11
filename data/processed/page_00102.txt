@@ -1,0 +1,91 @@
+Overview What Is Coronavirus? Variants Long COVID
+Diagnosis and Treatment Diagnosis Treatment
+If youÂ don t feel well, you may worry that you have COVID-19. The only way to know for sure is to take a test. At-home tests can tell whether you have the virus right now. More specialized antibody tests can show if you veÂ had it already.
+According to the CDC, it s a good idea to test if:
+You ve had close contact with someone who has, or thinks they have, COVID. (Test at least 5 full days after the contact.)
+You re traveling outside of the U.S. (Follow the testing requirements of the place you plan to visit.)
+You might have a few of these symptoms. You can also have COVID and not have any symptoms at all.
+Different types of tests can be done to look for SARS-CoV-2, the virus that causes COVID-19. The two main types used today are:
+Molecular tests like polymerase chain reaction ( PCR) tests
+Rapid antigen tests , also called antigen tests
+The CDC views the PCR test as the gold standard of COVID tests because it s so reliable. You might know it as the nose swab test. It looks for RNA (genetic material) of the virus.Â Â
+There are different ways a PCR test can be done. Some tests require a nasal swab, a special cotton swab on a stick, be put just inside each of your nostrils and moved around for about 15 seconds. Other PCR tests collect a sample of respiratory material with a nasopharyngeal swab. It works the same way, but it goes farther back into your nasal cavity . Neither of these tests are painful, but they may feel uncomfortable.
+Once the sample is sent to a lab, a special process analyzes it for any traces of virus.Â
+In 2020, the FDA also gave emergency authorization to a test that looked for SARS CoV-2 in a sample of your saliva (spit). An early study showed that this method works at least as well as swabbing your nose. But it s not widely used.
+If you ve taken a COVID test at home, you ve probably taken an antigen test. They re often called a self test or rapid test. An antigen is a special type of marker found on foreign substances that get inside your body, like viruses, allergens, and bacteria . This helps your immune system find it and attack it.Â
+An at-home COVID test looks for COVID antigens. You swab your nose yourself and get results in a few minutes, similar to a home pregnancy test .
+Some self-tests are designed for single use. Others ask you to repeat the test within a 2- to 3-day window to confirm your result.
+Molecular (PCR) tests are much more sensitive than antigen tests. For instance, if you have COVID but don t have any symptoms, an antigen test might give you a negative result. This is called a false negative.
+Molecular tests are more accurate, but they take longer. You may wait a full day or longer to get your results.
+A special blood test can also show if you have COVID, or have had it in the recent past. It looks for COVID antibodies . These proteins help target an infection and clear it from your body.Â Some antibodies that your body makes in response to COVID might stay in your blood for months, although it s unclear how much they can protect you from the virus.
+It can take your body 2 to 3 weeks to make enough COVID antibodies to show up in an antibody test. Because of that, if you take this test too soon, you could get a false negative result.
+In 2022, the FDA approved a breathalyzer test for COVID. You breathe into a straw that connects to a device that checks for special compounds linked to the virus. But some experts feel there isn t enough data to show how well this test works. Other breath tests for COVID are now being tested.
+You can t get a COVID-19 breath test at home. They re only available in certain doctor s offices or hospitals.
+During the pandemic, many clinics and hospitals offered drive-up COVID testing. You didn t have to get out of your car to get an antigen test. These types of test sites aren t as common today. If you have a disability and need help getting a COVID-19 vaccine, contact the Disability Information and Access Line (DIAL) at 888-677-1199 .Â
+Whether or not you re fully vaccinated, take a self-test if you:
+Have COVID symptoms like coughing, a sore throat, a fever, or chills
+Have been in close contact with someone who s tested positive for COVID
+Are asked to take a test for school, work, or for medical reasons
+You might also take a self-test before you attend a gathering with a lot of people, especially if some of them are older or have issues with their immune system. Being around unvaccinated children is another reason to play it safe and test first.
+To get the most accurate test result with your at-home test:
+Keep your test properly stored until you re ready to use it.Â
+Wash your hands for at least 20 seconds before doing it.
+Disinfect the surface of your testing site before you start.
+Don t let your test sit by a heater or out in the sun.
+You have a few options for how and where you get tested for COVID.Â
+The FDA has approved many at-home tests, including:
+BinaxNOW COVID-19 Antigen Self Test. You can buy this antigen test online or in stores. BinaxNOW also makes the Ag Card Home Test, which requires you to be supervised by a telehealth provider via phone or computer.
+Ellume . This test uses an app to guide you through the process using a nasal swab.
+QuickVue . After you swab, you put the swab in a solution and wait 10 minutes. You then put a paper strip in the solution. It changes color to indicate positive or negative.
+On/Go. This antigen test can be done through a mobile app.
+Flowflex. The FDA originally issued an emergency use authorization (EUA) for this antigen test in 2021.
+Cue . This molecular COVID-19 test requires you to buy a separate device to read your results.
+Metrix. You can test either a nose swab or your spit. You ll need to buy a reader to detect the results.
+If you aren t able to get a home test, you can schedule a PCR test. In-person COVID-19 testing is done at places like:
+Some places require you to make an appointment, especially for antibody testing or if you have COVID symptoms. You may be asked to describe your symptoms over the phone or when you book your visit online.Â
+Have you been in close contact (within 6 feet) with someone who has COVID-19?
+Has someone with COVID-19 coughed or sneezed on you?
+Did a health official tell you that you ve come in contact with COVID-19?
+During the pandemic, the U.S. government required private health plans to cover the cost of eight at-home COVID tests per member each month. But those laws have ended since COVID is no longer a public health emergency.
+How much you pay for a COVID test today depends on many things, including the type of test you get, why and where you get it, if you have health insurance, and the details of your plan.Â
+The following are general guidelines. The only way to know for sure what you ll pay for a COVID test is to call your health plan or the testing center and ask.
+Some health plans may pay you back for COVID tests that you buy yourself. If so, you ll probably submit a claim and your receipt to your insurer. You won t need a prescription or note from your doctor, but they might require you to buy a certain type of FDA-approved test from a preferred seller.Â
+Original Medicare (also called Medicare Parts A and B) covers COVID testing if your doctor orders it and you get it done at a place that takes Medicare. If you have Medicare Advantage (also called Medicare Part C) you will likely have some costs.
+If you have Medicaid or the Children s Health Insurance Program (CHIP)
+You have access to COVID over-the-counter and lab tests through Sept. 30, 2024. After that, coverage will depend on your state.Â
+If you don t have insurance, the average price for a COVID self-test is 11. You can usually get a self-pay discount for a COVID test that s done at a hospital or doctor s office. You might pay 51 for an antigen test and around 91 for a PCR test.
+The U.S. government has ended its program that mailed free tests to your home. But there are still ways you can get a COVID test at no cost:Â
+Get tested and treated through the National Institutes of Health
+If you don t have health insurance or use Medicare, Medicaid, VA insurance, or get care from Indian Health Services, you can sign up for the Home Test to Treat program. It s funded by the National Institutes of Health. If you qualify, you ll be sent an at-home COVID test. You can also get COVID treatment if you test positive.
+Check with your local pharmacy or your state, local, tribal, or territorial health department
+They can work with you to get free testing and other health resources.
+The time it will take to get your results depends on the type of test. Many home tests get results within minutes. If the test needs to go to a lab, it will depend on how quickly they can process the samples.Â Â
+What should I do about my COVID test results?
+If you test positive. A positive COVID-19 test means you have, or recently had, the virus.Â
+Try to keep your distance from other people in your home.
+Don t share dishes, cups, eating utensils, sheets, or towels.
+Cover your coughs and sneezes. Wash your hands often.
+Clean and disinfect common surfaces like phones, doorknobs, or counters regularly.
+Tell anyone you ve been in close contact with about your result.
+Let your doctor know your test result and any symptoms you have. This is especially important if you re an older adult or have another health condition. Some COVID treatment options are available.Â
+If you think your test result is wrong, ask your doctor whether you should retest or schedule a more accurate PCR test.
+You can go back to your normal routine as soon as :
+You haven t had a fever for at least 24 hours, without using any fever-reducing medication.
+Then, take extra care around others for 5 more days. That includes:
+Trying to keep your distance from others
+Opting to spend time with people outdoors or in well-ventilated areasÂ
+If your symptoms or fever returns, take another COVID test. If it s positive, stay home again until you start feeling better and you ve been fever-free for at least 24 more hours.
+If you test negative . If you don t have symptoms and followed the test kit instructions, you probably don t have COVID. But you could still get it. Wash your hands often and remember to distance from others who are sick.
+Although it s unlikely, your COVID-19 test results could also be wrong. This is called a false negative. If you re unsure whether you should take another test, ask your doctor. They can help you decide what to do based on your symptoms and health history.
+If the result shows an error or is invalid . This is rare, but it could happen for several reasons, such as:
+You didn t follow the exact test instructions.
+Your test isn t working the way it should.
+Double-check the test kit instructions and call the manufacturer s number listed on the box. You may want to take a different test for the most accurate result.
+How long will I test positive for COVID after having it?
+If you ve had COVID, you may keep getting positive test results for up to 90 days, especially if you take a PCR test. This 3-month window is also when a reinfection is likely to happen. A reinfection means that you get sick, get better, then get sick again. If you have questions about your symptoms or test results, call your doctor.
+What Are the Risks of At-Home COVID Tests?
+While convenient and usually easy to do, at-home COVID tests are not foolproof. If you don t read the instructions carefully or swab your nose the way you re told, you might not get an accurate result.
+The two main parts of at-home antigen tests â test strips and little vials of liquid â expire. Using them could give you a false negative result.
+But the expiration date you see on the box may not be accurate. In many cases, your test kit will be good up to 22 months longer than what s listed.
+To know for sure, call the manufacturer. The FDA also maintains a list of COVID test kits and their extended expiration dates.
+If you can t get tested, you may still need medical help. Call your doctor if you don t feel well or have a high fever or a cough. Call 911 if you have:
